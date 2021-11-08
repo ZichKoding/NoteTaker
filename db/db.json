@@ -1,32 +1,3 @@
 [
-  {
-    "id": "0",
-    "title": "Test Title",
-    "text": "Test text"
-  },
-  {
-    "id": "1",
-    "title": "Next Test Title",
-    "text": "Next Test Text"
-  },
-  {
-    "title": "A;LKJF",
-    "text": "a;lksdfj;klasfdjk;alsfdj;lkasdghutyqweroiuklasdfkj",
-    "id": "2"
-  },
-  {
-    "title": "Finally?",
-    "text": "Let us see......",
-    "id": "3"
-  },
-  {
-    "title": "Validation?",
-    "text": "Time to find out",
-    "id": "4"
-  },
-  {
-    "title": "Last test",
-    "text": "Before working on deletions.",
-    "id": "5"
-  }
+
 ]
